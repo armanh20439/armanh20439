@@ -2,7 +2,7 @@
 
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:FF69B4&height=120&section=footer&text=Thanks+for+Visiting+💙&fontSize=22&fontColor=ffffff&animation=fadeIn" alt="footer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Arman+Hossain;Front-End+Developer" alt="Typing SVG" />
 </p>
 
 ---

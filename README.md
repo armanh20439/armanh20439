@@ -2,7 +2,7 @@
 
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Arman+Hossain!+👋;Front-End+Developer+%7C+Next.js+%26+TypeScript;CSE+Student+%40+IUBAT;Loves+Clean+UI+%26+Code+✨" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:FF69B4&height=120&section=footer&text=Thanks+for+Visiting+💙&fontSize=22&fontColor=ffffff&animation=fadeIn" alt="footer"/>
 </p>
 
 ---

@@ -1,8 +1,8 @@
 <!-- 🌟 Arman Hossain GitHub Profile -->
 
-<!-- Animated Banner -->
+<!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Arman+Hossain!+👋;Front-End+Developer+%7C+Next.js+%26+TypeScript;CSE+Student+%40+IUBAT;Loves+Clean+UI+%26+Code+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Arman+Hossain!+👋;Front-End+Developer+%7C+Next.js+%26+TypeScript;CSE+Student+%40+IUBAT;Loves+Clean+UI+%26+Code+✨" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,10 +10,10 @@
 # 👨‍💻 About Me
 
 🎓 **CSE Student at IUBAT**  
-💻 Passionate **Front-End Developer** with strong skills in **React, Next.js, and TypeScript**  
-🌐 Exploring **Full-Stack Development (MERN)**  
-🧠 Working with **NextAuth**, **MongoDB**, and **API integration**  
-🤖 Interested in **AI, Deep Learning, and Computer Vision**  
+💻 Passionate **Front-End Developer** skilled in **React, Next.js, TypeScript & Tailwind CSS**  
+🌐 Exploring **Full-Stack (MERN)** and **NextAuth** for authentication  
+🧠 Working on **Deep Learning** for my university thesis  
+⚡ I enjoy building clean, modern, and responsive web applications  
 
 ---
 
@@ -36,7 +36,7 @@
 
 ---
 
-## 🗣️ Programming Languages
+## 💬 Programming Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
 </p>
@@ -53,7 +53,7 @@
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arman-hossain&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -92,5 +92,10 @@
 </p>
 
 ---
+
+<!-- 🌊 Animated Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Thanks+for+Visiting+💙&fontAlign=50&fontAlignY=40&desc=Have+a+great+day!&descAlign=50&descAlignY=70" alt="Footer" />
+</p>
 
 ⭐️ From [**Arman Hossain**](https://github.com/arman-hossain)

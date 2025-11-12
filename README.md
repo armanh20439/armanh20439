@@ -2,8 +2,9 @@
 
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Arman+Hossain;Front-End+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Arman+Hossain+👋;Front-End+Developer+%7C+Next.js+%26+TypeScript;CSE+Student+%40+IUBAT;Loves+Clean+UI+%26+Code+✨" alt="Typing SVG" />
 </p>
+
 
 ---
 

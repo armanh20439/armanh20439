@@ -87,9 +87,9 @@
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINK"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href="mailto:YOURMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://YOURPORTFOLIO.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000.svg?logo=vercel&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/md-arman-hossain-01aa69226/"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto:armanh20439@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://eager-lewin-060969.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000.svg?logo=vercel&logoColor=white&style=for-the-badge" /></a>
 </p>
 
 ---
